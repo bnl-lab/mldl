@@ -1,2 +1,9 @@
 # Local Python virtual environment
 .venv/
+
+# Generated Python bytecode
+__pycache__/
+*.pyc
+
+# Generated data and charts
+outputs/
