@@ -1,0 +1,12 @@
+{
+  "input_path": "C:\\apps\\mldl\\data\\har_features.csv",
+  "output_path": "C:\\apps\\mldl\\output\\har_features_pca.csv",
+  "fit_scope": "all_rows",
+  "n_samples": 10299,
+  "original_feature_count": 561,
+  "pca_component_count": 104,
+  "requested_n_components": 0.95,
+  "total_explained_variance_ratio": 0.9504703221103679,
+  "model_path": "C:\\apps\\mldl\\output\\har_features_pca_pipeline.joblib",
+  "explained_variance_path": "C:\\apps\\mldl\\output\\har_features_pca_explained_variance.csv"
+}
