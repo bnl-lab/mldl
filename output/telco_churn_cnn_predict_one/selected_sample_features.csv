@@ -1,0 +1,46 @@
+﻿feature,preprocessed_value
+SeniorCitizen,-0.4399165
+tenure,1.6137012
+MonthlyCharges,1.6381432
+TotalCharges,2.7311187
+gender_Female,-0.9905318
+gender_Male,0.9905318
+Partner_No,-1.0345303
+Partner_Yes,1.0345303
+Dependents_No,-1.5290241
+Dependents_Yes,1.5290241
+PhoneService_No,-0.3274383
+PhoneService_Yes,0.3274383
+MultipleLines_No,-0.96332985
+MultipleLines_No phone service,-0.3274383
+MultipleLines_Yes,1.1707187
+InternetService_DSL,-0.72373974
+InternetService_Fiber optic,1.1291018
+InternetService_No,-0.52592736
+OnlineSecurity_No,-0.99334884
+OnlineSecurity_No internet service,-0.52592736
+OnlineSecurity_Yes,1.5774539
+OnlineBackup_No,-0.8836197
+OnlineBackup_No internet service,-0.52592736
+OnlineBackup_Yes,1.3782406
+DeviceProtection_No,-0.8854046
+DeviceProtection_No internet service,-0.52592736
+DeviceProtection_Yes,1.3812774
+TechSupport_No,-0.98632103
+TechSupport_No internet service,-0.52592736
+TechSupport_Yes,1.5638717
+StreamingTV_No,-0.8147587
+StreamingTV_No internet service,-0.52592736
+StreamingTV_Yes,1.2656118
+StreamingMovies_No,-0.80874157
+StreamingMovies_No internet service,-0.52592736
+StreamingMovies_Yes,1.2561707
+Contract_Month-to-month,-1.1059698
+Contract_One year,-0.5142494
+Contract_Two year,1.7762777
+PaperlessBilling_No,-0.8297975
+PaperlessBilling_Yes,0.8297975
+PaymentMethod_Bank transfer (automatic),-0.5298852
+PaymentMethod_Credit card (automatic),1.9045902
+PaymentMethod_Electronic check,-0.71102595
+PaymentMethod_Mailed check,-0.5448069
